@@ -30,6 +30,8 @@ I only made the project a 5 bit adder because i wanted to be able to represent b
 This is my second project for this board besides some simple gate tests. I wanted to test if I could make this circuit with my limited knowledge of verilog and it came out nice. 
 
 
+Video Demonstration:
+https://www.youtube.com/watch?v=ilU9YfEJ8gM
 
 
 
