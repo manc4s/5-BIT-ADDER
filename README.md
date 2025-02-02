@@ -1,4 +1,4 @@
-## 5-BIT-ADDER Project
+# 5-BIT-ADDER Project
 
 
 Created in the VIVADO -version 2024.2 IDE
@@ -23,29 +23,29 @@ https://github.com/Digilent/Basys3/blob/master/Projects/XADC_Demo/src/constraint
 
         
 
-# Project is based on the 8bit_adder_circuit.png 
+## Project is based on the 8bit_adder_circuit.png 
 ![image](https://github.com/user-attachments/assets/b4566987-e51c-4ce5-9194-1d1f4b7cc562)
 created in circuit verse.
-I only made the project a 5 bit adder because i wanted to be able to represent both inputs and outputs on the LED's on the bottom of the board and there are only 16.
 
+I only made the project a 5 bit adder because i wanted to be able to represent both inputs and outputs on the LED's on the bottom of the board and there are only 16.
 
 This is my second project for this board besides some simple gate tests. I wanted to test if I could make this circuit with my limited knowledge of verilog and it came out nice. 
 
 
 
 
-# The board schematics for inputs and outputs is the following.
+## The board schematics for inputs and outputs is the following.
 ![image](https://github.com/user-attachments/assets/303995f6-5561-471e-af51-ed8a0c3e691d)
 
 
 
-# On the board the first 5 switches and leds represent value a, another 5 switches and leds are value b, the addition of the two are the next 5 leds and the carry is the final led.
+## On the board the first 5 switches and leds represent value a, another 5 switches and leds are value b, the addition of the two are the next 5 leds and the carry is the final led.
 As seen below. 
 ![image](https://github.com/user-attachments/assets/1121548a-5ca4-4f47-8b06-3c819789e1e4)
 
 
 
-#Video Demonstration:
+##Video Demonstration:
 https://www.youtube.com/watch?v=ilU9YfEJ8gM
 
 
