@@ -23,7 +23,9 @@ https://github.com/Digilent/Basys3/blob/master/Projects/XADC_Demo/src/constraint
 
         
 
-Project is based on the 8bit_adder_circuit.png (https://github.com/manc4s/5-BIT-ADDER/blob/main/8bit_adder_circuit.png) i created in circuit verse.
+Project is based on the 8bit_adder_circuit.png 
+![image](https://github.com/user-attachments/assets/b4566987-e51c-4ce5-9194-1d1f4b7cc562)
+created in circuit verse.
 I only made the project a 5 bit adder because i wanted to be able to represent both inputs and outputs on the LED's on the bottom of the board and there are only 16.
 
 
