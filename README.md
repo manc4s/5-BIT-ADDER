@@ -32,6 +32,19 @@ I only made the project a 5 bit adder because i wanted to be able to represent b
 This is my second project for this board besides some simple gate tests. I wanted to test if I could make this circuit with my limited knowledge of verilog and it came out nice. 
 
 
+
+
+The board schematics for inputs and outputs is the following.
+![image](https://github.com/user-attachments/assets/303995f6-5561-471e-af51-ed8a0c3e691d)
+
+
+
+On the board the first 5 switches and leds represent value a, another 5 switches and leds are value b, the addition of the two are the next 5 leds and the carry is the final led.
+As seen below. 
+![image](https://github.com/user-attachments/assets/1121548a-5ca4-4f47-8b06-3c819789e1e4)
+
+
+
 Video Demonstration:
 https://www.youtube.com/watch?v=ilU9YfEJ8gM
 
