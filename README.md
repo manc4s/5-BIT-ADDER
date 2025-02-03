@@ -6,7 +6,7 @@ hardware Basys 3 - fpga board from digilent.
 
 5 Bit adder, will add two 5 bit binary values together to show the final result + carry.
 
-intputs: 10 switches, 10 led's<br /> # (<br /> is a new line function for readme)
+intputs: 10 switches, 10 led's<br /> 
 outputs: 6 led's<br />
 
 ## Project is based on the 8bit_adder_circuit.png 
